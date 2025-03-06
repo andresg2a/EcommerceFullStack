@@ -1,4 +1,4 @@
-Ecommerce Full Stack – Laravel, Angular, MySQL, JWT, PayPal, MercadoPago 2024
+Ecommerce Full Stack – Laravel, Angular, MySQL, JWT, PayPal, MercadoPago
 
 1.	Descripción
 
